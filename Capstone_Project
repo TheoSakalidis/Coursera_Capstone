@@ -1,1 +1,5 @@
+#This Notebook will be maily used for the Coursera Capstone Project
+
+import pandas as pd
+import numpy ad np
 
